@@ -1,0 +1,25 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "TEST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickberber/testAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickberber/testAPI/issues"
+  },
+  "homepage": "https://github.com/mickberber/testAPI#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "request": "^2.72.0"
+  }
+}

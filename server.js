@@ -1,8 +1,8 @@
 var express = require('express');
 var app = express();
 var path = require('path');
-var port = process.env.PORT || 8080;
 var request = require('request');
+var port = process.env.PORT || 8080;
 
 //supplied local items
 var localItems = [
